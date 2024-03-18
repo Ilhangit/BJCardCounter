@@ -1,0 +1,16 @@
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\bin\Debug\net6.0-windows\bjcardcounter.exe
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\bin\Debug\net6.0-windows\bjcardcounter.deps.json
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\bin\Debug\net6.0-windows\bjcardcounter.runtimeconfig.json
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\bin\Debug\net6.0-windows\bjcardcounter.dll
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\bin\Debug\net6.0-windows\bjcardcounter.pdb
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.Form1.resources
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.AssemblyInfo.cs
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.dll
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\refint\bjcardcounter.dll
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.pdb
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\bjcardcounter.genruntimeconfig.cache
+C:\Users\hakan\source\repos\bjcardcounter\bjcardcounter\obj\Debug\net6.0-windows\ref\bjcardcounter.dll
